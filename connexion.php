@@ -11,10 +11,10 @@ header("Access-Control-Allow-Headers: Content-Type");
 
 class DbConnect
 {
-    private $server = "localhost";
-    private $dbname = "test";
-    private $user = "root";
-    private $pass = "";
+    private $server = "sql11.freesqldatabase.com";
+    private $dbname = "sql11691767";
+    private $user = "sql11691767";
+    private $pass = "yj1MGZkUFu";
 
     public function connect()
     {
